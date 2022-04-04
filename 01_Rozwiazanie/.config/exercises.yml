@@ -1,0 +1,2 @@
+exercises:
+    '01_Cinema API': { max_points: 0, disabled: true, translations: { en: '01_Cinema API', pl: '01_Cinema API' } }
